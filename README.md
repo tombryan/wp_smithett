@@ -7,7 +7,7 @@ WP Smithett
 
 Right now you'll need to have [Compass](http://compass-style.org/) and [Susy](http://susy.oddbird.net/) installed, as well as some idea of how to use them. This will cost you some [Rubies](http://www.ruby-lang.org/en/) and [gems](http://rubygems.org/). Have Compass watch while you work inside the `stylesheets` directory — everything gets compiled into `style.css`. Don't look at me like that.
 
-Oh — knowing about [SMACSS](http://smacss.com/) is also really good, and I reckon you should use [BEM](http://bem.info/method/) syntax too.
+Oh — knowing about [SMACSS](http://smacss.com/) is also really good.
 
 ### With WP Smithett you can...
 * Make a website for your favourite client!

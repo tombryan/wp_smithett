@@ -13,7 +13,6 @@ Oh — knowing about [SMACSS](http://smacss.com/) is also really good, and I rec
 * Make a website for your favourite client!
 * Start a blog!
 * (Probably) make a theme to sell on [Themeforest](http://themeforest.net)!
-* Use it as a parent theme!
 * Print it out to impress friends!
 * And many more!
 

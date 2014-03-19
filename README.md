@@ -11,11 +11,11 @@ Oh — knowing about [SMACSS](http://smacss.com/) is also really good, and I rec
 
 ### With WP Smithett you can...
 * Make a website for your favourite client!
-* Make your own WordPress starter theme!
+* Start a blog!
 * (Probably) make a theme to sell on [Themeforest](http://themeforest.net)!
 * Use it as a parent theme!
-* Print it out and use it as gift wrapping to impress friends!
-* And many mores!
+* Print it out to impress friends!
+* And many more!
 
 ### Coming soon (maybe)
 * A `Gemfile`

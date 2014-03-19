@@ -1,0 +1,8 @@
+// Globally hidden elements when Infinite Scroll is supported and in use.
+.infinite-scroll .paging-navigation,
+.infinite-scroll.neverending .site-footer
+  display: none
+
+// When Infinite Scroll has reached its end we need to re-display elements that were hidden (via .neverending) before
+.infinity-end.neverending .site-footer
+  display: block

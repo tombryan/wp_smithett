@@ -25,4 +25,4 @@ Oh — knowing about [SMACSS](http://smacss.com/) is also really good.
 ### Coming soon (maybe)
 * A `Gemfile`
 * Some actual instructions to help you get started
-* Example modules and grid usage
+* Example modules

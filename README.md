@@ -2,6 +2,8 @@
 **Warning:** I plumbed this together for my own personal use. It's _very_ barebones. Don't yell at me.
 <hr>
 
+![wp_smithett-screenshot](https://f.cloud.github.com/assets/436120/2468396/4b92cd2e-afd7-11e3-9964-2863731e0ee5.jpg)
+
 WP Smithett
 ===========
 

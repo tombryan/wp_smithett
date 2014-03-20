@@ -814,6 +814,77 @@ object {
   max-width: 100%;
 }
 
+* html {
+  font-size: 100%;
+}
+
+html {
+  font-size: 16px;
+  line-height: 1.5em;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  height: 100%;
+}
+
+body {
+  background-color: white;
+  height: 100%;
+  margin: 0;
+}
+
+a, a:visited {
+  color: #0066ff;
+}
+a:hover, a:focus, a:visited:hover, a:visited:focus {
+  color: #003d99;
+}
+
+p {
+  margin-top: 0em;
+  margin-bottom: 1.5em;
+}
+p:last-child {
+  margin-bottom: 0em;
+}
+
+ul, ol {
+  margin-top: 0em;
+  margin-bottom: 1.5em;
+  padding-left: 2.25em;
+}
+ul li, ol li {
+  margin-bottom: 0em;
+}
+
+h1, .h1 {
+  font-size: 2em;
+  line-height: 1.125em;
+  margin-top: 0em;
+  margin-bottom: 0.75em;
+}
+
+h2, .h2 {
+  font-size: 1.5em;
+  line-height: 1.5em;
+  margin-top: 0em;
+  margin-bottom: 1em;
+}
+
+h3, .h3 {
+  font-size: 1.1875em;
+  line-height: 1.26316em;
+  margin-top: 0em;
+  margin-bottom: 1.26316em;
+}
+
 .grid {
   padding-left: 0.625em;
   padding-right: 0.625em;

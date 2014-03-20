@@ -1,4 +1,6 @@
-**Warning:** I plumbed this together for my own personal use. Don't yell at me.
+<hr>
+**Warning:** I plumbed this together for my own personal use. It's _very_ barebones. Don't yell at me.
+<hr>
 
 WP Smithett
 ===========

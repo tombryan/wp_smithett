@@ -28,18 +28,20 @@
 <div class="grid">
   <div id="page" class="hfeed site">
 
-  	<header id="masthead" class="site-header" role="banner">
-  		<div class="site-branding">
-  			<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
-  			<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
-  		</div>
+  	<div class="box--outlined">
+      <header id="masthead" class="site-header" role="banner">
+    		<div class="site-branding">
+    			<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
+    			<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
+    		</div>
 
-  		<nav id="site-navigation" class="main-navigation" role="navigation">
-  			<h1 class="menu-toggle"><?php _e( 'Menu', 'wp_smithett' ); ?></h1>
-  			<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'wp_smithett' ); ?></a>
+    		<nav id="site-navigation" class="main-navigation" role="navigation">
+    			<h1 class="menu-toggle"><?php _e( 'Menu', 'wp_smithett' ); ?></h1>
+    			<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'wp_smithett' ); ?></a>
 
-  			<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
-  		</nav><!-- #site-navigation -->
-  	</header><!-- #masthead -->
+    			<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
+    		</nav><!-- #site-navigation -->
+    	</header><!-- #masthead -->
+    </div>
 
   	<div id="content" class="site-content">

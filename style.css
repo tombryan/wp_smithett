@@ -885,6 +885,15 @@ h3, .h3 {
   margin-bottom: 1.26316em;
 }
 
+.box, .box--outlined {
+  margin-bottom: 0.625em;
+}
+
+.box--outlined {
+  border: 1px solid #0066ff;
+  padding: 0.625em;
+}
+
 .grid {
   padding-left: 0.625em;
   padding-right: 0.625em;

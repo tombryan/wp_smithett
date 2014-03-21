@@ -1,5 +1,5 @@
 <hr>
-**Warning:** I plumbed this together for my own personal use. It's _very_ barebones. Don't yell at me.
+**Warning:** I plumbed this together for my own personal use. Don't yell at me.
 <hr>
 
 ![wp_smithett-screenshot](https://f.cloud.github.com/assets/436120/2468396/4b92cd2e-afd7-11e3-9964-2863731e0ee5.jpg)
@@ -11,9 +11,17 @@ WP Smithett
 
 There's a live preview [here](http://wp-smithett.tombryan.co/).
 
-Right now you'll need to have [Compass](http://compass-style.org/) and [Susy](http://susy.oddbird.net/) installed, as well as some idea of how to use them. This will cost you some [Rubies](http://www.ruby-lang.org/en/) and [gems](http://rubygems.org/). Have Compass watch while you work inside the `stylesheets` directory — everything gets compiled into `style.css`. Don't look at me like that.
+You'll need to be somewhat familiar with [Compass](http://compass-style.org/), [Sass](http://sass-lang.com/), and [Susy](http://susy.oddbird.net/) to get the most out of this starter framework.
 
 Oh — knowing about [SMACSS](http://smacss.com/) is also really good.
+
+### Getting started
+* Checkout this repo or download the archive and put it in your `/wp-content/themes/` directory (don't forget to unzip it).
+* Open a new Terminal window and: `$ cd wherever/you/put/it/wp-content/themes/wp_smithett`.
+* All the dependencies are included in `Gemfile`, so go ahead and `$ gem install bundler && bundle install`.
+* Use `$ compass watch` or `$ compass compile` while you work inside the `stylesheets` directory — everything gets compiled into `style.css`.
+* Make something great!
+
 
 ### With WP Smithett you can...
 * Make a website for your favourite client!
@@ -21,8 +29,3 @@ Oh — knowing about [SMACSS](http://smacss.com/) is also really good.
 * (Probably) make a theme to sell on [Themeforest](http://themeforest.net)!
 * Print it out to impress friends!
 * And many more!
-
-### Coming soon (maybe)
-* A `Gemfile`
-* Some actual instructions to help you get started
-* Example modules

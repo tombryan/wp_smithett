@@ -1,3 +1,4 @@
+require 'sass-globbing'
 require 'susy'
 
 preferred_syntax = :sass

@@ -11,12 +11,12 @@ WP Smithett
 
 There's a live preview [here](http://wp-smithett.tombryan.co/).
 
-You'll need to be somewhat familiar with [Compass](http://compass-style.org/), [Sass](http://sass-lang.com/), and [Susy](http://susy.oddbird.net/) to get the most out of this starter framework.
+You'll need to be somewhat familiar with [Compass](http://compass-style.org/), [Sass](http://sass-lang.com/), and [Susy](http://susy.oddbird.net/) to get the most out of WP Smithett. [Ruby](https://www.ruby-lang.org/en/) is required for developing with this framework — if you're using a Mac though, it should Just Work™. 
 
 Oh — knowing about [SMACSS](http://smacss.com/) is also really good.
 
 ### Getting started
-* Checkout this repo or download the archive and put it in your `/wp-content/themes/` directory (don't forget to unzip it).
+* Clone this repository or download the archive and put it in your `/wp-content/themes/` directory (don't forget to unzip it).
 * Open a new Terminal window and: `$ cd wherever/you/put/it/wp-content/themes/wp_smithett`.
 * All the dependencies are included in `Gemfile`, so go ahead and `$ gem install bundler && bundle install`.
 * Use `$ compass watch` or `$ compass compile` while you work inside the `stylesheets` directory — everything gets compiled into `style.css`.

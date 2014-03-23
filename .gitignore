@@ -1,1 +1,13 @@
 .sass-cache/
+
+# ------------------------------------------------------------------------------
+# You might want to uncomment the following lines if you're using a Git-savvy
+# FTP deploy script like PHPloy (https://github.com/banago/PHPloy) and you don't
+# want them ending up on your remote server.
+#-------------------------------------------------------------------------------
+
+# config.rb
+# Gemfile
+# Gemfile.lock
+# README.md
+# stylesheets/

@@ -17,8 +17,8 @@
  * WP Smithett is based on Underscores http://underscores.me/, (C) 2012-2014 Automattic, Inc,
  * and Style by Ben Smithett http://github.com/bensmithett/style.
  */
-@import url(vendor/normalize.css);
-@import url(vendor/jquery.mmenu.all.css);
+@import url(vendor/stylesheets/normalize.css);
+@import url(vendor/stylesheets/jquery.mmenu.all.css);
 hr {
   background-color: #cccccc;
   border: 0;
@@ -174,66 +174,6 @@ textarea {
   padding-left: 3px;
   vertical-align: top;
   width: 98%;
-}
-
-a {
-  color: royalblue;
-}
-
-a:visited {
-  color: purple;
-}
-
-a:hover,
-a:focus,
-a:active {
-  color: midnightblue;
-}
-
-.main-navigation {
-  clear: both;
-  display: block;
-  float: left;
-  width: 100%;
-}
-
-.main-navigation ul {
-  list-style: none;
-  margin: 0;
-  padding-left: 0;
-}
-
-.main-navigation li {
-  float: left;
-  position: relative;
-}
-
-.main-navigation a {
-  display: block;
-  text-decoration: none;
-}
-
-.main-navigation ul ul {
-  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
-  display: none;
-  float: left;
-  left: 0;
-  position: absolute;
-  top: 1.5em;
-  z-index: 99999;
-}
-
-.main-navigation ul ul ul {
-  left: 100%;
-  top: 0;
-}
-
-.main-navigation ul ul a {
-  width: 200px;
-}
-
-.main-navigation ul li:hover > ul {
-  display: block;
 }
 
 .screen-reader-text {

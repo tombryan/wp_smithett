@@ -86,8 +86,6 @@ add_action( 'widgets_init', 'wp_smithett_widgets_init' );
 function wp_smithett_scripts() {
 	wp_enqueue_style( 'wp_smithett-style', get_stylesheet_uri() );
 
-	wp_enqueue_script( 'wp_smithett-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20120206', true );
-
 	wp_enqueue_script( 'wp_smithett-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20130115', true );
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {

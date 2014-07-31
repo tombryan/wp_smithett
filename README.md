@@ -24,6 +24,6 @@ Oh — knowing about [SMACSS](http://smacss.com/) is also really good.
 ### With WP Smithett you can...
 * Make a website for your favourite client!
 * Start a blog!
-* (Probably) make a theme to sell on [Themeforest](http://themeforest.net)!
+* (Probably) make a theme to sell on [ThemeForest](http://themeforest.net)!
 * Print it out to impress friends!
 * And many more!

@@ -9,9 +9,7 @@ WP Smithett
 
 **WP Smithett** is a mobile-first, responsive WordPress starter template made with Automattic's [Underscores](http://underscores.me) and Ben Smithett's [Style](https://github.com/bensmithett/style). It's named after [Ben](http://bensmithett.com/) because I stole all his work.
 
-There's a live preview [here](http://wp-smithett.tombryan.co/).
-
-You'll need to be somewhat familiar with [Compass](http://compass-style.org/), [Sass](http://sass-lang.com/), and [Susy](http://susy.oddbird.net/) to get the most out of WP Smithett. [Ruby](https://www.ruby-lang.org/en/) is required for developing with this framework — if you're using a Mac though, it should Just Work™. 
+You'll need to be somewhat familiar with [Compass](http://compass-style.org/), [Sass](http://sass-lang.com/), and [Susy](http://susy.oddbird.net/) to get the most out of WP Smithett. [Ruby](https://www.ruby-lang.org/en/) is required for developing with this framework — if you're using a Mac though, it should Just Work™.
 
 Oh — knowing about [SMACSS](http://smacss.com/) is also really good.
 

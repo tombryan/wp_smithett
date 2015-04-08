@@ -15,6 +15,15 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!--[if gt IE 8]><!-->
+  <meta name="breakpoint" content="phone" media="(max-width: 568px)">
+  <meta name="breakpoint" content="tablet" media="(min-width: 569px) and (max-width: 1024px)">
+  <meta name="breakpoint" content="tablet-and-below" media="(max-width: 1024px)">
+  <meta name="breakpoint" content="desktop" media="(min-width: 1025px)">
+  <meta name="breakpoint" content="retina" media="only screen and (-webkit-min-device-pixel-ratio : 2)">
+<!--<![endif]-->
+
 <title><?php wp_title( '|', true, 'right' ); ?></title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">

@@ -3,11 +3,11 @@ $susy: (
   container: 1000px,
   gutters: 0.3,
   math: fluid,
-  debug: (
-    image: show,
-    output: overlay,
-    toggle: top right,
-  ),
+  // debug: (
+  //   image: show,
+  //   output: overlay,
+  //   toggle: top right,
+  // ),
   use-custom: (
     box-sizing: false,
   ),

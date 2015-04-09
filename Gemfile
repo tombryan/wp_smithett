@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'susy', '~> 1.0.9'
-gem 'compass', '~> 0.12.2'
-gem 'sass-globbing', '~> 1.1.0'
+gem 'susy', '~> 2.2.2'
+gem 'compass', '~> 1.0.3'
+gem 'sass-globbing', '~> 1.1.1'

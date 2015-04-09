@@ -2,10 +2,13 @@
 // Layout: Content-Sidebar
 
 .content-area
-  +at-breakpoint($desktop-and-above)
-    +span-columns(8)
+
+  .breakpoint-desktop &
+    +span(8 of 12)
+
 
 .widget-area
-  +at-breakpoint($desktop-and-above)
-    +span-columns(4)
+
+  .breakpoint-desktop &
+    +span(4 of 12)
     +omega
